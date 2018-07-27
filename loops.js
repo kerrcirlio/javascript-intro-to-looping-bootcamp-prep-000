@@ -32,5 +32,8 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array) {
-  maybeTrue()
+  do { [array.length> o ]; 
+    
+  }
+  while (maybeTrue()
 }
