@@ -32,9 +32,8 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array) {
-  do { [array.length> o || maybeTrue() ]; 
+  do { []; 
     
   }
-     while (function maybeTrue(){ 
-       return Math.random() >= 0.5 }
+     while (array.length> o || maybeTrue())}
 }
