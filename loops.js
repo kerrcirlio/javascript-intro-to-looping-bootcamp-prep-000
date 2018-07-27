@@ -8,4 +8,4 @@ function forLoop(array) {
     return array;
 }
 
-console.log(forLoop().)
+console.log(forLoop())
